@@ -2,9 +2,9 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Login from "./pages/Login";
 import Register from "./pages/Register";
-import Dashboard from "./pages/AdminDashboard";
+//import Dashboard from "./pages/AdminDashboard";
 import CreateTicket from "./pages/CreateTicket";
-import TicketList from "./pages/AdminTickets";
+//import TicketList from "./pages/AdminTickets";
 import TicketDetails from "./pages/TicketDetails";
 import AuthPage from "./pages/AuthPage";
 import UserDashboard from "./pages/UserDashboard";
